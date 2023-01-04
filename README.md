@@ -1,8 +1,3 @@
 # teach
-Teaching Compsci roundtable how to do github
-
-
+Teaching Compsci roundtable how to do Github.
 Dean is :(
-
-
-
